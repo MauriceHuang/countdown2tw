@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2b283aff;
+    color:aliceblue;
+    font-size: 1.5em;
+}
+p {
+    margin: 0.5em;
+}
+
+.status{
+    font-size: 3em;
+}
